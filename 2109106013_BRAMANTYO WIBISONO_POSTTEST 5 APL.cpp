@@ -1,7 +1,7 @@
 /*
-	Program Struct Menggunakan Nested Struct & Metode CRUD
+	Program Struct Menggunakan Nested Struct, Metode CRUD, Serta Penggunaan Prosedur Sorting
 	Judul Program: DATA ATLIT TARUNG DERAJAT UNIVERSITAS MULAWARMAN UNTUK PERSIAPAN KEJUARAAN POMNAS 2022
-	POSTTEST IV PRATIKUM ALGORITMA PEMROGRAMAN LANJUT
+	POSTTEST V PRATIKUM ALGORITMA PEMROGRAMAN LANJUT
 	2109106013 - Bramantyo Ardi Harimurti Wibisono
 	Informatika A'2021
 */
